@@ -208,19 +208,11 @@ Some things I can add in the future:
 
 ## 👩‍💻 About Me
 
-### Kanishka Khandelwal
+### Akash Choudhary
 
 **B.Tech CSE Student | JECRC University**
 
 I'm currently learning and exploring **web development, programming, and problem solving**, while working on projects that allow me to combine technology with creativity.
-
-### Connect With Me
-
-**GitHub:**
-https://github.com/26kanishkakhandelwal
-
-**LinkedIn:**
-https://www.linkedin.com/in/kanishka-khandelwal-32662b310/
 
 ---
 
@@ -236,4 +228,4 @@ This project is one small step in that journey.
 
 ### ⭐ Built with curiosity, code & creativity.
 
-**— Kanishka Khandelwal**
+**— Akash Choudhary**
